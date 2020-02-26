@@ -5,7 +5,8 @@ This GitHub repository contains:
 * Worm-align.ijm = the Worm-align macro for use in FIJI
 * Worm-check.ijm = an example of a FIJI macro that uses the Worm-align output to analyse fluorescence intensity in user-selected individual worms
 * Worm_CP.cpproj = an example of a CellProfiler pipeline that uses the Worm-align output to analyse fluorescence intensity in user-selected individual worms
-* Various example images
+* Various example images to be used in Worm-align
+* An example of Worm-align output, which can be used for quantification of fluorescence intensity in selected worms using Worm-check or Worm_CP
 
 Worm-align requires ImageJ version 1.52a or later.
 The Worm_CP.cpproj pipeline was constructed using CellProfiler 2.2.0.
