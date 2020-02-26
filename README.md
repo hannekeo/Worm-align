@@ -10,9 +10,9 @@ This GitHub repository contains:
 Worm-align requires ImageJ version 1.52a or later.
 The Worm_CP.cpproj pipeline was constructed using CellProfiler 2.2.0.
 
+
 Instructions on how to use this workflow can be found in our JOVE publication:
 
 Worm-align and Worm_CP, two open-source pipelines for straightening and quantification of fluorescence image data obtained from Caenorhabditis elegans.
-
 Okkenhaug, H.1; Chauve, L1; Masoudzadeh, F1; Okkenhaug, L. and Casanueva, O. 1
 1 Babraham Institute, Cambridge, UK
