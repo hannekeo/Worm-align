@@ -300,8 +300,9 @@ for (i=0; i<list.length; i++){
 	Table.renameColumn("Max", "-");	
 	Table.setColumn("Length", wormL);
 	Table.update;
-	saveAs("Results", data+File.separator+"QC.csv");
-
+	saveAs("Results", data+File.separator+name+"_QC.csv");
+	run("Close");
+	
 	selectWindow("mask"); 		
 	saveAs("Tiff", CP+File.separator+"Lines_"+name+".tif");
 	run("Close");
